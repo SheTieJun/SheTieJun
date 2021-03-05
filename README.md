@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi there 👋,I'm Jun
 
-<!--
-**SheTieJun/SheTieJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shetiejun&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shetiejun&layout=compact&theme=vue-dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋‍♂️ I'm Android developer
+
+- 🤹  Kotlin / Java
+- 😄  I like play the game, look anime, and coding
+-  :penguin:  375105540 
+-  :email: tiejunshe@gmail.com
+
+### 🛠 技术栈 | Tech Stack
+
+- ![Language](https://img.shields.io/badge/-Language-333333?style=flat&logo=Language&logoColor=007396):&#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FE6D4B)  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=a3e496)
+- ![字节码插装](https://img.shields.io/badge/-byte-333333?style=flat&logo=byte&logoColor=FE6D4B): ![AspectJ](https://img.shields.io/badge/-AspectJ-333333?style=flat&logo=AspectJ&logoColor=FE6D4B)  ![ASM](https://img.shields.io/badge/-ASM-333333?style=flat&logo=ASM&logoColor=FE6D4B)
+- ![Tech](https://img.shields.io/badge/-technology-333333?style=flat&logo=fire&logoColor=007396):![APT](https://img.shields.io/badge/-APT-333333?style=flat&logo=APT&logoColor=FE6D4B)  ![Java 泛型](https://img.shields.io/badge/-Java 泛型-333333?style=flat&logo=Java&logoColor=FE6D4B)   ![反射](https://img.shields.io/badge/-reflect-333333?style=flat&logo=reflect&logoColor=FE6D4B)   ![自定义view](https://img.shields.io/badge/-自定义view-333333?style=flat&logo=view&logoColor=FE6D4B)    ![kotlin  协程](https://img.shields.io/badge/-kotlin  协程-333333?style=flat&logo=kotlin&logoColor=FE6D4B)    ![ Gradle插件开发](https://img.shields.io/badge/-Gradle插件开发-333333?style=flat&logo= Gradle&logoColor=FE6D4B)  ![ viewbinding](https://img.shields.io/badge/-Viewbinding-333333?style=flat&logo= Android&logoColor=FE6D4B)   ![ Jekpect](https://img.shields.io/badge/-Jekpect-333333?style=flat&logo= Android&logoColor=FE6D4B) 
+- ![模式](https://img.shields.io/badge/-模式-333333?style=flat&logo=fire&logoColor=007396):![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=frame&logoColor=5A9AEF)  ![MVP](https://img.shields.io/badge/-MVP-333333?style=flat&logo=frame&logoColor=5A9AEF)   ![MVVM](https://img.shields.io/badge/-MVVM-333333?style=flat&logo=frame&logoColor=5A9AEF) 
+- ![版本控制](https://img.shields.io/badge/-版本控制-333333?style=flat&logo=fire&logoColor=007396) : ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)     ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)  
+
+- ![other](https://img.shields.io/badge/-other-333333?style=flat&logo=fire&logoColor=007396):  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)   ![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)   ![DLNA投屏](https://img.shields.io/badge/-DLNA投屏-333333?style=flat&logo=DLNA)
+
+#### 正在做的事情：
+
+- 编写一个路由库
+- 用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英
+
+
+
+
+
+
