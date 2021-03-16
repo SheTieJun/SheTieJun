@@ -3,13 +3,14 @@ Hi there 👋,I'm Jun
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shetiejun&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shetiejun&layout=compact&theme=vue-dark)
 
-- 🙋‍♂️ I'm Android developer
-
-- 🤹  Kotlin / Java
+-  I'm A Android developer
+- 🤹  Kotlin / Java 
 - 😄  I like play the game, look anime, and coding
 -  :penguin:  375105540 
 -  :email: tiejunshe@gmail.com
 
+
+<!--
 ### 🛠 技术栈 | Tech Stack
 
 - ![Language](https://img.shields.io/badge/-Language-333333?style=flat&logo=Language&logoColor=007396):&#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FE6D4B)  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=a3e496)
@@ -19,11 +20,12 @@ Hi there 👋,I'm Jun
 - ![版本控制](https://img.shields.io/badge/-版本控制-333333?style=flat&logo=fire&logoColor=007396) : ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)     ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)  
 
 - ![other](https://img.shields.io/badge/-other-333333?style=flat&logo=fire&logoColor=007396):  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)   ![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)   ![DLNA投屏](https://img.shields.io/badge/-DLNA投屏-333333?style=flat&logo=DLNA)
+-->
 
 #### 正在做的事情：
 
 - 编写一个路由库
-- 用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英
+- ~~用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英~~
 
 
 
