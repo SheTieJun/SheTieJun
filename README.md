@@ -4,7 +4,7 @@ Hi there 👋,I'm Jun
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shetiejun&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shetiejun&layout=compact&theme=vue-dark)
 -->
 
--  I'm A Android developer
+-  I'm a Android developer
 - 😄  I like play the game, look anime, and coding
 -  :penguin:  375105540 
 -  :email: tiejunshe@gmail.com
