@@ -24,8 +24,8 @@ Hi there 👋,I'm Jun
 
 #### 正在做的事情：
 
-- 编写一个路由库
-- ~~用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英~~
+- ~~编写一个路由库~~[已初步完成](https://github.com/SheTieJun/RoutetKit)
+- ~~用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英~~[已完成](https://github.com/SheTieJun/PluginLib)
 
 
 
