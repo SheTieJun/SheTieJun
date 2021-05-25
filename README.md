@@ -26,7 +26,7 @@ Hi there 👋,I'm Jun
 
 - ~~编写一个路由库~~  [已初步完成](https://github.com/SheTieJun/RoutetKit)
 - ~~用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英~~  [已完成](https://github.com/SheTieJun/PluginLib)
-- ~~录音库~~（[已实现](https://github.com/SheTieJun/Mp3Recorder)）和视频播放库(封装腾讯云或者其他)
+- ~~录音库~~（[已实现](https://github.com/SheTieJun/Mp3Recorder)）和~~视频播放库(封装腾讯云或者其他)~~[初步实现](https://github.com/SheTieJun/PlayerKit)
 
 
 
