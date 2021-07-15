@@ -27,7 +27,7 @@ Hi there 👋,I'm Jun
 - ~~用Gradle进行插件开发：多渠道打包、上传到Fir 或者蒲公英~~  [已完成](https://github.com/SheTieJun/PluginLib)
 - ~~录音库~~（[已实现](https://github.com/SheTieJun/Mp3Recorder)）和~~视频播放库(封装腾讯云或者其他)~~[初步实现](https://github.com/SheTieJun/PlayerKit)
 - [NAS 个人云搭建](https://github.com/SheTieJun/NASDes)
-- [FFmpeg 移植](https://github.com/SheTieJun/Android_ffmpeg)
+- [FFmpeg 移植](https://github.com/SheTieJun/Android_ffmpeg) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
 - ?
 
 
