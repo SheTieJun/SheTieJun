@@ -23,9 +23,9 @@ Hi there 👋,I'm Jun
 
 #### 正在做的事情：
 
-- [路由库已初步完成](https://github.com/SheTieJun/RoutetKit)
-- [Gradle进行插件开发](https://github.com/SheTieJun/PluginLib)
-- [录音库已实现](https://github.com/SheTieJun/Mp3Recorder)）和[视频播放库初步实现](https://github.com/SheTieJun/PlayerKit)
+- [路由库-初步完成](https://github.com/SheTieJun/RoutetKit)
+- [Gradle进行插件开发--初步完成](https://github.com/SheTieJun/PluginLib)
+- [Mp3录音库-完成](https://github.com/SheTieJun/Mp3Recorder)和[视频播放库-初步实现](https://github.com/SheTieJun/PlayerKit)
 - [NAS 个人云搭建](https://github.com/SheTieJun/NASDes)
 - [FFmpeg 移植](https://github.com/SheTieJun/Android_ffmpeg) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
 - ?
