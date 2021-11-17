@@ -28,7 +28,7 @@ Hi there 👋,I'm Jun
 - [Mp3录音库-完成](https://github.com/SheTieJun/Mp3Recorder)和[视频播放库-初步实现](https://github.com/SheTieJun/PlayerKit)
 - [NAS 个人云搭建](https://github.com/SheTieJun/NASDes)
 - [NDK开发](https://github.com/SheTieJun/Android_NDK) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
-- ?
+- GitHub Action:[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android-ios/blob/master/.github/workflows/makefile.yml)
 
 
 
