@@ -27,8 +27,8 @@ Hi there 👋,I'm Jun
 - [Gradle进行插件开发--初步完成](https://github.com/SheTieJun/PluginLib)
 - [Mp3录音库-完成](https://github.com/SheTieJun/Mp3Recorder)和[视频播放库-初步实现](https://github.com/SheTieJun/PlayerKit)
 - [NAS 个人云搭建](https://github.com/SheTieJun/NASDes)
-- [NDK开发](https://github.com/SheTieJun/Android_NDK) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
-- GitHub Action:[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android-ios/blob/master/.github/workflows/makefile.yml)
+- [JNI开发](https://github.com/SheTieJun/Android_NDK) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
+- [GitHub Action](https://github.com/SheTieJun/Worker):[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android-ios/blob/master/.github/workflows/makefile.yml)
 
 
 
