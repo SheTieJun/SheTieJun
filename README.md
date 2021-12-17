@@ -30,7 +30,7 @@ Hi there 👋,I'm Jun
 - [JNI开发](https://github.com/SheTieJun/Android_NDK_JNI) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
 - [GitHub Action](https://github.com/SheTieJun/Worker):[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android)
 - [JNI 开发](https://github.com/SheTieJun/Android_NDK_JNI):SoundTouch、curl
-- Compose  
+- [Compose](https://github.com/SheTieJun/samples-compose)  
 
 
 
