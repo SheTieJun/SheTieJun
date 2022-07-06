@@ -7,6 +7,7 @@ Hi there 👋,I'm Jun
 - 😄  I like play the game, look anime, and coding
 -  :penguin:  375105540 
 -  :email: tiejunshe@gmail.com
+-  博客记录:https://blog.csdn.net/StjunF 和[Book](https://github.com/SheTieJun/Book)
 
 
 <!--
