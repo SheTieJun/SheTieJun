@@ -32,7 +32,7 @@ Hi there 👋,I'm Jun
 - [GitHub Action](https://github.com/SheTieJun/Worker):[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android)
 - [JNI 开发](https://github.com/SheTieJun/Android_NDK_JNI):SoundTouch、curl
 - [Jetpack-compose-demo](https://github.com/SheTieJun/Jetpack-compose-demo)  
-- Compose for Desktop
+- [Kotlin-Multiplatform-demo](https://github.com/SheTieJun/Kotlin-Multiplatform-demo)
 
 
 
