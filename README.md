@@ -24,15 +24,12 @@ Hi there 👋,I'm Jun
 
 #### 正在做的事情：
 
-- [路由库-初步完成](https://github.com/SheTieJun/RoutetKit)
-- [Gradle进行插件开发--初步完成](https://github.com/SheTieJun/PluginLib)
-- [Mp3录音库-完成](https://github.com/SheTieJun/Mp3Recorder)和[视频播放库-初步实现](https://github.com/SheTieJun/PlayerKit)
-- [NAS 个人云搭建](https://github.com/SheTieJun/NASDes)
-- [JNI开发](https://github.com/SheTieJun/Android_NDK_JNI) 和[MediaCodeC](https://github.com/SheTieJun/MediaCodeCKit)
-- [GitHub Action](https://github.com/SheTieJun/Worker):[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android)
-- [JNI 开发](https://github.com/SheTieJun/Android_NDK_JNI):SoundTouch、curl
-- [Jetpack-compose-demo](https://github.com/SheTieJun/Jetpack-compose-demo)  
-- [Kotlin-Multiplatform-demo](https://github.com/SheTieJun/Kotlin-Multiplatform-demo)：[database](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/database), [video](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/video),[network](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/network),[webview](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/webview)
+
+- Gradle进行插件开发[PluginLib](https://github.com/SheTieJun/PluginLib)
+- Mp3录音：[Mp3Recorder](https://github.com/SheTieJun/Mp3Recorder) 
+- GitHub Action:[Worker](https://github.com/SheTieJun/Worker):[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android)
+- JNI 开发： [Android_NDK_JNI](https://github.com/SheTieJun/Android_NDK_JNI):SoundTouch、curl
+- Jetpack-Compose：[Jetpack-compose-demo](https://github.com/SheTieJun/Jetpack-compose-demo) 、[Kotlin-Multiplatform-demo](https://github.com/SheTieJun/Kotlin-Multiplatform-demo)：[database](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/database), [video](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/video),[network](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/network),[webview](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/webview)
   - [compose-webview:Android and Desktop](https://github.com/SheTieJun/compose-webview)
 - 对一些库扩展封装:[AndroidX-KTX](https://github.com/SheTieJun/AndroidX-KTX)
 - 富文本编辑器：[wangEditor-Android](https://github.com/SheTieJun/wangEditor-Android)
