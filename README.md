@@ -34,9 +34,10 @@ Hi there 👋,I'm Jun
 - [Jetpack-compose-demo](https://github.com/SheTieJun/Jetpack-compose-demo)  
 - [Kotlin-Multiplatform-demo](https://github.com/SheTieJun/Kotlin-Multiplatform-demo)：[database](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/database), [video](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/video),[network](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/network),[webview](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/webview)
   - [compose-webview:Android and Desktop](https://github.com/SheTieJun/compose-webview)
-- 对一些库扩展封装[AndroidX-KTX](https://github.com/SheTieJun/AndroidX-KTX)
+- 对一些库扩展封装:[AndroidX-KTX](https://github.com/SheTieJun/AndroidX-KTX)
 - 富文本编辑器：[wangEditor-Android](https://github.com/SheTieJun/wangEditor-Android)
 - 可视化日志输出：[LogKit](https://github.com/SheTieJun/LogKit)
+- 自定义view:[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
 
 
 
