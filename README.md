@@ -35,6 +35,7 @@ Hi there 👋,I'm Jun
 - 富文本编辑器：[wangEditor-Android](https://github.com/SheTieJun/wangEditor-Android)
 - 可视化日志输出：[LogKit](https://github.com/SheTieJun/LogKit)
 - 自定义view:[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
+- TensorFlow学习：[TensorFlow-sample](https://github.com/SheTieJun/TensorFlow-sample)
 
 
 
