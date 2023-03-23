@@ -36,6 +36,7 @@ Hi there 👋,I'm Jun
 - 可视化日志输出：[LogKit](https://github.com/SheTieJun/LogKit)
 - 自定义view:[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
 - TensorFlow学习：[TensorFlow-sample](https://github.com/SheTieJun/TensorFlow-sample)
+- 多渠道和签名：[channelSigner](https://github.com/SheTieJun/channelSigner)
 
 
 
