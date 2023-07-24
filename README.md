@@ -9,6 +9,8 @@ Hi there 👋,I'm Jun
 -  :email: tiejunshe@gmail.com
 -  博客记录:https://blog.csdn.net/StjunF 和[Book](https://github.com/SheTieJun/Book)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shetiejun&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shetiejun&layout=compact&theme=vue-dark)
+
 
 <!--
 ### 🛠 技术栈 | Tech Stack
@@ -25,18 +27,15 @@ Hi there 👋,I'm Jun
 #### 正在做的事情：
 
 
-- Gradle进行插件开发[PluginLib](https://github.com/SheTieJun/PluginLib)
+- Gradle插件开发：[PluginLib](https://github.com/SheTieJun/PluginLib)
 - Mp3录音：[Mp3Recorder](https://github.com/SheTieJun/Mp3Recorder) 
-- GitHub Action:[Worker](https://github.com/SheTieJun/Worker):[IjkPlayer 构建](https://github.com/SheTieJun/Worker/blob/ijkplayerWorker/.github/workflows/ijkWorker.yml) && [Curl 构建](https://github.com/SheTieJun/curl-android)
-- JNI 开发： [Android_NDK_JNI](https://github.com/SheTieJun/Android_NDK_JNI):SoundTouch、curl
-- Jetpack-Compose：[Jetpack-compose-demo](https://github.com/SheTieJun/Jetpack-compose-demo) 、[Kotlin-Multiplatform-demo](https://github.com/SheTieJun/Kotlin-Multiplatform-demo)：[database](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/database), [video](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/video),[network](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/network),[webview](https://github.com/SheTieJun/Kotlin-Multiplatform-demo/tree/master/common/webview)
+- JNI 开发：[Android_NDK_JNI](https://github.com/SheTieJun/Android_NDK_JNI):SoundTouch、curl、lame、ffmpeg
+- Jetpack-Compose：[Jetpack-compose-demo](https://github.com/SheTieJun/Jetpack-compose-demo) 、[Kotlin-Multiplatform-demo](https://github.com/SheTieJun/Kotlin-Multiplatform-demo)： 
   - [compose-webview:Android and Desktop](https://github.com/SheTieJun/compose-webview)
-- 对一些库扩展封装:[AndroidX-KTX](https://github.com/SheTieJun/AndroidX-KTX)
 - 富文本编辑器：[wangEditor-Android](https://github.com/SheTieJun/wangEditor-Android)
 - 可视化日志输出：[LogKit](https://github.com/SheTieJun/LogKit)
-- 自定义view:[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
-- TensorFlow学习：[TensorFlow-sample](https://github.com/SheTieJun/TensorFlow-sample)
-- 乐固+多渠道+签名：[channelSigner](https://github.com/SheTieJun/channelSigner)
+- 录音以及剪切的自定义view：[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
+- Gradle插件（乐固+多渠道+签名）：[channelSigner](https://github.com/SheTieJun/channelSigner)
 
 
 
