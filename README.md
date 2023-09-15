@@ -36,6 +36,7 @@ Hi there 👋,I'm Jun
 - 可视化日志输出：[LogKit](https://github.com/SheTieJun/LogKit)
 - 录音以及剪切的自定义view：[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
 - Gradle插件（乐固+多渠道+签名）：[channelSigner](https://github.com/SheTieJun/channelSigner)
+- 投屏开发（额外实现构建本地服务器进行本地资源投屏 ）:[clingLib](https://github.com/SheTieJun/clingLib)
 
 
 
