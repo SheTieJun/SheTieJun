@@ -37,6 +37,7 @@ Hi there 👋,I'm Jun
 - 录音以及剪切的自定义view：[AudioWaveView](https://github.com/SheTieJun/AudioWaveView)
 - Gradle插件（乐固+多渠道+签名）：[channelSigner](https://github.com/SheTieJun/channelSigner)
 - 投屏开发（额外实现构建本地服务器进行本地资源投屏 ）:[clingLib](https://github.com/SheTieJun/clingLib)
+- Hls下载[HlsDownload](https://github.com/SheTieJun/HlsDownload)
 
 
 ### 所有开源项目都主要是提供思路，不提供解决方案，如果能直接解决大家的问题当然最好，如果不能直接解决问题还请尽量自己尝试修改，个人时间有限，能力有限。
