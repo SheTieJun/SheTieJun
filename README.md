@@ -7,8 +7,9 @@ Hi there 👋,I'm Jun
 <!--- 😄  ~ Looking for a remote job ~
 -  :penguin:  375105540 
 -  :email: tiejunshe@gmail.com
--  博客记录:https://blog.csdn.net/StjunF 和[Book](https://github.com/SheTieJun/Book)
 -->
+-  记录和分享:https://blog.csdn.net/StjunF 和[Book](https://github.com/SheTieJun/Book)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shetiejun&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shetiejun&layout=compact&theme=vue-dark)
 
 
