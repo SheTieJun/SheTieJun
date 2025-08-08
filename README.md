@@ -42,7 +42,6 @@ Hi there 👋,I'm Jun
 - 基于Ktor的服务器开发:[ktor-server-sample](https://github.com/SheTieJun/ktor-server-sample)
 - BOM to JetPack Androidx library version mapping for minCompileSdk.[androidx-bom](https://github.com/SheTieJun/androidx-bom)
 - 鸿蒙App开发-[HarmonySample](https://github.com/SheTieJun/HarmonySample)
-- MCP server 
 
 
 
