@@ -9,6 +9,7 @@ Hi there 👋,I'm Jun
 -  :email: tiejunshe@gmail.com
 -->
 -  记录和分享:https://blog.csdn.net/StjunF 和[Book](https://github.com/SheTieJun/Book)
+-  感觉AI出来后，就不想写记录了，也不想写demo测试API了～
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shetiejun&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shetiejun&layout=compact&theme=vue-dark)
 
